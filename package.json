@@ -1,0 +1,9 @@
+{
+"name":"test",
+  "dependencies": {
+    "bcrypt": "0.8.x",
+    "express": "3.x",
+    "body-parser": "1.15.0",
+    "mongodb": "2.1.x" 
+  }
+}
